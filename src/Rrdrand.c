@@ -31,6 +31,9 @@ static unsigned int poolbuf[POOLSIZE];
 static const double onedev2pow32     =  2.3283064365386963e-10; /* 1/2^32 */
 static const double onedev2pow32sub1 =  2.328306437080797e-10; /* 1/(2^32 - 1) */ 
 
+// prototypes:
+double *user_unif_rand(void);
+
 __inline static void mycpuid(int op, int *eax, int *ebx, int *ecx, int *edx){
 #if defined(HAVE_X86_CPUID) && HAVE_X86_CPUID == 1
 #if defined(__i386__) && defined(__PIC__)
