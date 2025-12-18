@@ -1,0 +1,12 @@
+ac6885b865e290c1979219846ee528e6 *Changelog
+79d17aa6a929a39ef26da18b6b53799e *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+313d5d0e82553c18be3375054f84d876 *R/Rrdrand.R
+8fd2e7e53abf2c0bab227345662e2bce *R/zzz.R
+b7aa8199d5f215556302f61bd5e723bc *cleanup
+8f2132f99d4d7c75f8bd09aed5e85ba6 *configure
+93570447424474a59b17afc9561f34a1 *configure.ac
+339c614f8c25078c778dcf0a8fbb4c1f *man/Rrdrand-package.Rd
+eb50b5e5cd535d24bdc2af38617329ba *src/Rrdrand.c
+21289dbd41baa93b3046e612fb9534ac *src/config.h.in
+28169c6575bd4a56eafb61f0cbd48c9b *src/registerDynamicSymbol.c
